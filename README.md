@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="120" src="https://raw.githubusercontent.com/Aadisharma1/SkillSync_Project/main/docs/logo.svg" alt="SkillSync Logo" />
+<img width="120" src="https://raw.githubusercontent.com/Aadisharma1/SkillSync_v2/main/docs/logo.svg" alt="SkillSync Logo" />
 
 # SkillSync
 ### AI-Powered Career Intelligence Platform
@@ -14,7 +14,7 @@
 
 **10 ML-powered modules. Real career intelligence. Built for engineers who want the truth.**
 
-[🚀 Live Demo](http://localhost:3000/demo) · [📊 Dashboard](http://localhost:3000) · [⚡ Skill Gap Analyzer](http://localhost:3000/skill-gap)
+[🚀 Live Demo](https://skillsync-v2.vercel.app/demo) · [📊 Dashboard](https://skillsync-v2.vercel.app) · [⚡ Skill Gap Analyzer](https://skillsync-v2.vercel.app/skill-gap)
 
 ---
 
